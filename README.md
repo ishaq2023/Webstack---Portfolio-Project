@@ -1,5 +1,5 @@
 # WORDIMMO
-![WordImmo](https://github.com/emmaudeji/Webstack-Portfolio-Project/blob/main/welcome.png)
+![WordImmo](https://github.com/ishaq2023/Webstack-Portfolio-Project/blob/master/welcome1.png)
 
 `Group project` `Web Portfolio project`
 
